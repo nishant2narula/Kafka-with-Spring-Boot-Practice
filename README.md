@@ -20,3 +20,7 @@ bin/kafka-console-consumer.sh --topic JsonMessage --from-beginning --bootstrap-s
 
 
 <img width="901" height="633" alt="Terminal Screenshot" src="https://github.com/user-attachments/assets/856ac34f-9ed8-47d6-b2df-88e1669e82e6" />
+
+
+<img width="901" height="691" alt="Postman Screenshot" src="https://github.com/user-attachments/assets/f8f3e14f-088d-448c-be60-503ddbeb1659" />
+
